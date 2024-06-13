@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #define MAX_VERTEX 10 // vertex(정점)의 최대 개수
+
+/* git commit 용 수정 */
 
 typedef struct node {
     int vertex; // vertex 0~9
